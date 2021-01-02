@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   sodipodi:docname="white_bg_2.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1044"
+     id="namedview13"
+     showgrid="false"
+     inkscape:zoom="0.203125"
+     inkscape:cx="960"
+     inkscape:cy="540"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#14213d;}.cls-2{fill:#e5e5e5;}.cls-3{fill:#fca311;}</style>
+  </defs>
+  <path
+     class="cls-2"
+     d="M1536.78,1473.6c-79.43,80.5-205.26,84.13-289.73,54.23-123.38-43.66-113.08-142.75-228.73-176-106.89-30.73-150,44-275.22,15.41-74.71-17.08-183.51-72.08-188.23-137.46-10-137.77,437.25-389.43,776.41-256.91,35.73,14,236.55,92.43,269.54,267.54C1602.92,1251.54,1625.63,1383.56,1536.78,1473.6Z"
+     id="path8" />
+  <path
+     class="cls-3"
+     d="M183.68-66.42c81.49,78.4,86.71,204.18,57.89,289C199.47,346.52,100.26,337.47,68.48,453.54,39.1,560.8,114.42,603,87.37,728.54c-16.13,74.91-69.75,184.4-135.07,190-137.63,11.69-394.93-432.29-266.7-773.1,13.5-35.9,89.42-237.7,264.1-272.9C-39.2-129.75,92.52-154.13,183.68-66.42Z"
+     id="path10" />
+</svg>
